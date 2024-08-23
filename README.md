@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: python, sql, #OracleNextEducation
 - 📫 How to reach me: dansanchezherrera@gmail.com
-- 📝 Interested in collaborating with: Technovation Girls
+- 📝 Collaborating with: <a href="https://technovation.cl/">Technovation Girls</a>
 - 🌸 Pronouns: she/her
 - ⚡ Fun fact: I'm a gamer, in love with ![League of Legends Badge](https://img.shields.io/badge/League%20of%20Legends-C28F2C?logo=leagueoflegends&logoColor=fff&style=for-the-badge)
   
